@@ -22,7 +22,7 @@ Use only in pentest your servers!
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/hellcat443/hellcat
+   git clone https://github.com/hellcat443/hellcat.git
    cd HellCat
 2. **Run the installer**  
    ```bash
